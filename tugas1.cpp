@@ -40,6 +40,11 @@ void proses() {
     switch (menu) {
         case 1:
             input();
+            if (cekPrima(angka)) {
+        cout << "Bilangan prima" << endl;
+    } else {
+        cout << "Bukan bilangan prima" << endl;
+    }
             break;
         case 2:
             input();
@@ -51,3 +56,4 @@ void proses() {
             break;
     }
 }
+
