@@ -21,3 +21,7 @@ bool cekPrima(int n) {
     }
     return true;
 }
+
+bool cekFibonacci(int n) {
+    return false;
+}
