@@ -62,5 +62,13 @@ void proses() {
             cout << "Pilihan tidak valid!" << endl;
             break;
     }
+
 }
 
+int main() {
+    do {
+
+    } while (menu != 0);
+
+    return 0;
+}
