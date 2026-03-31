@@ -56,7 +56,7 @@ void proses() {
     }
             break;
         case 0:
-            input();
+            cout << "Program selesai." << endl;
             break;
         default:
             break;
