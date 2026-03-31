@@ -39,10 +39,13 @@ bool cekFibonacci(int n) {
 void proses() {
     switch (menu) {
         case 1:
+            input();
             break;
         case 2:
+            input();
             break;
         case 0:
+            input();
             break;
         default:
             break;
