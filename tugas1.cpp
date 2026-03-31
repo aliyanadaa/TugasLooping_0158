@@ -36,4 +36,15 @@ bool cekFibonacci(int n) {
     return false;
 }
 
-void proses(){}
+void proses() {
+    switch (menu) {
+        case 1:
+            break;
+        case 2:
+            break;
+        case 0:
+            break;
+        default:
+            break;
+    }
+}
