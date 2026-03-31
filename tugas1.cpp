@@ -48,6 +48,12 @@ void proses() {
             break;
         case 2:
             input();
+            input();
+    if (cekFibonacci(angka)) {
+        cout << "Termasuk Fibonacci" << endl;
+    } else {
+        cout << "Bukan Fibonacci" << endl;
+    }
             break;
         case 0:
             input();
