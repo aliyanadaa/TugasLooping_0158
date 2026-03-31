@@ -74,6 +74,8 @@ int main() {
 
         cout << "Pilih menu: ";
         cin >> menu;
+
+        proses();
     } while (menu != 0);
 
     return 0;
