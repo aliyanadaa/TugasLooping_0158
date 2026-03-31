@@ -59,6 +59,7 @@ void proses() {
             cout << "Program selesai." << endl;
             break;
         default:
+            cout << "Pilihan tidak valid!" << endl;
             break;
     }
 }
