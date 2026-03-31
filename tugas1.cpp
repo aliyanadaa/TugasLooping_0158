@@ -35,3 +35,5 @@ bool cekFibonacci(int n) {
     }
     return false;
 }
+
+void proses(){}
